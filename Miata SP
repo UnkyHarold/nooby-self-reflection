@@ -1,0 +1,8 @@
+function miataOwnership(miatasOwned) {
+	if (miatasOwned >= 1) {
+		return "You Gay"
+	}else {
+return "Buy a Miata smh"
+	}
+}
+miataOwnership(1)
