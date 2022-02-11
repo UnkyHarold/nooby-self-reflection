@@ -6,3 +6,14 @@ return "Buy a Miata smh"
 	}
 }
 miataOwnership(1)
+
+
+function miataOwnership (miatasOwned) { {
+  if (miatasOwned === 1) 
+    return "Sexuality in question"
+}  {if  (miatasOwned < 1) 
+       return "Buy a Miata"
+       }  {if  (miatasOwned >1)
+              return "Homosexuality cancelled out"
+              } }
+miataOwnership(0)
